@@ -1,4 +1,4 @@
-## Ex.No:9 Develop a simple calculator using android studio.
+a## Ex.No:9 Develop a simple calculator using android studio.
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
@@ -21,15 +21,14 @@ Step 6: Display the calculator operation in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
 /*
-Program to print the text “calculator operation”.
-Developed by: Arun j
-Registeration Number : 212222040015
-*/
 ```
-
-## Activity_main.xml:
+Program to print the text “calculator operation”.
+Developed by:Arun J
+Registeration Number :212222040015
+```
+*/
+## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -271,14 +270,10 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
-## OUTPUT:
-
-![image](https://github.com/user-attachments/assets/bc8a3484-7490-4800-86cd-db2a0c3ecab4)
-![image](https://github.com/user-attachments/assets/b4c85638-fb27-4845-8944-412c4846a84e)
+## OUTPUT
+![image](https://github.com/user-attachments/assets/11d38252-9339-45cf-b0a8-26cb5e1a8e4b)
+![image](https://github.com/user-attachments/assets/adf86fdc-eab6-4109-bacb-91c714c7f22b)
 
 
-
-
-## RESULT:
+## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
