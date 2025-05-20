@@ -178,7 +178,6 @@ Registeration Number : 212222040015
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
 ## MainActivity.java:
 ```
 package com.example.exp9;
@@ -281,7 +280,5 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
-## RESULT
+## RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
